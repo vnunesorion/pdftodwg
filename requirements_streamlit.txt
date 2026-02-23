@@ -1,0 +1,3 @@
+streamlit==1.28.0
+pymupdf==1.23.8
+ezdxf==1.1.0
